@@ -9,6 +9,7 @@ I've completely fallen for the power of <b>Java</b>, the endless creativity of <
 <br />
 This profile is where I'll be sharing my projects and progress. It's all about the journey, and I'm pumped to see where it leads!
 </p>
+
 🛠️ My Tech Toolkit
 <br>
 <br>
