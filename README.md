@@ -14,27 +14,27 @@ I’m a developer and designer who loves building things that are both functiona
 
 ### My Toolbox & Skills
 <p align="center">
-  <a href="https://github.com/vathsavv56"><img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" style="margin: 15px 20px; vertical-align:middle;" /></a>
-  <a href="https://www.linkedin.com/in/vathsav-inavolu-561068368/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" title="LinkedIn" style="margin: 15px 20px; vertical-align:middle;" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" style="margin: 15px 20px; vertical-align:middle;" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" style="margin: 15px 20px; vertical-align:middle;" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=c" alt="C" title="C" style="margin: 15px 20px; vertical-align:middle;" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" style="margin: 15px 20px; vertical-align:middle;" /></a>
+  <a href="https://github.com/vathsavv56"><img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" style="margin: 20px 30px; vertical-align:middle;" /></a>
+  <a href="https://www.linkedin.com/in/vathsav-inavolu-561068368/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" title="LinkedIn" style="margin: 20px 30px; vertical-align:middle;" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" style="margin: 20px 30px; vertical-align:middle;" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" style="margin: 20px 30px; vertical-align:middle;" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=c" alt="C" title="C" style="margin: 20px 30px; vertical-align:middle;" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" style="margin: 20px 30px; vertical-align:middle;" /></a>
   <br>
-  <a href="#"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" style="margin: 15px 20px; vertical-align:middle;" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" style="margin: 15px 20px; vertical-align:middle;" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma (UI/UX)" style="margin: 15px 20px; vertical-align:middle;" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" style="margin: 15px 20px; vertical-align:middle;" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" style="margin: 20px 30px; vertical-align:middle;" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" style="margin: 20px 30px; vertical-align:middle;" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma (UI/UX)" style="margin: 20px 30px; vertical-align:middle;" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" style="margin: 20px 30px; vertical-align:middle;" /></a>
   <br>
-  <a href="#"><img src="https://skillicons.dev/icons?i=expressjs" alt="Express" title="Express.js" style="margin: 15px 20px; vertical-align:middle;" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=react" alt="React" title="React" style="margin: 15px 20px; vertical-align:middle;" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node" title="Node.js" style="margin: 15px 20px; vertical-align:middle;" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=maven" alt="Maven" title="Maven" style="margin: 15px 20px; vertical-align:middle;" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=expressjs" alt="Express" title="Express.js" style="margin: 20px 30px; vertical-align:middle;" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=react" alt="React" title="React" style="margin: 20px 30px; vertical-align:middle;" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node" title="Node.js" style="margin: 20px 30px; vertical-align:middle;" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=maven" alt="Maven" title="Maven" style="margin: 20px 30px; vertical-align:middle;" /></a>
   <br>
-  <a href="#"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="Visual Studio Code" style="margin: 15px 20px; vertical-align:middle;" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" title="IntelliJ IDEA" style="margin: 15px 20px; vertical-align:middle;" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=windows" alt="Windows" title="Windows" style="margin: 15px 20px; vertical-align:middle;" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" title="Ubuntu" style="margin: 15px 20px; vertical-align:middle;" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="Visual Studio Code" style="margin: 20px 30px; vertical-align:middle;" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" title="IntelliJ IDEA" style="margin: 20px 30px; vertical-align:middle;" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=windows" alt="Windows" title="Windows" style="margin: 20px 30px; vertical-align:middle;" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" title="Ubuntu" style="margin: 20px 30px; vertical-align:middle;" /></a>
 </p>
 ---
 
