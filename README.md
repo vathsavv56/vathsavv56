@@ -43,6 +43,8 @@ I’m a developer and designer who loves building things that are both functiona
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vathsavv56&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vathsavv56&layout=donut&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" alt="Most Used Languages" width="40%" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=vathsavv56&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B" alt="Contribution Graph" width="55%" /> </div>
+
 
 ---
 
