@@ -28,7 +28,11 @@ I’m a developer and designer who loves building things that are both functiona
   <a href="#"><img src="https://skillicons.dev/icons?i=expressjs" alt="Express" title="Express.js" style="margin:0 18px; vertical-align:middle;" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=react" alt="React" title="React" style="margin:0 18px; vertical-align:middle;" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node" title="Node.js" style="margin:0 18px; vertical-align:middle;" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=maven" alt="Maven" title="Maven" style="margin:0 18px; vertical-align:middle;" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=maven" alt="Maven" title="Maven" style="margin:0 18px; vertical-align:middle;" /></a> <br><br>
+  <a href="#"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="Visual Studio Code" style="margin:0 18px; vertical-align:middle;" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" title="IntelliJ IDEA" style="margin:0 18px; vertical-align:middle;" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=windows" alt="Windows" title="Windows" style="margin:0 18px; vertical-align:middle;" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" title="Ubuntu" style="margin:0 18px; vertical-align:middle;" /></a>
 </p>
 
 ---
@@ -36,9 +40,7 @@ I’m a developer and designer who loves building things that are both functiona
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vathsavv56&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vathsavv56&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vathsavv56&theme=tokyonight" alt="GitHub Streak" />
 </p>
