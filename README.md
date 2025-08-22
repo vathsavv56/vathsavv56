@@ -14,13 +14,21 @@ I’m a developer and designer who loves building things that are both functiona
 
 ### My Toolbox & Skills
 <p align="center">
-  [![My Skills](https://skillicons.dev/icons?i=git,linkedin,java,python,c,html)](https://skillicons.dev)
-  <br><br>
-  [![My Skills](https://skillicons.dev/icons?i=css,js,figma,mongodb)](https://skillicons.dev)
-  <br><br>
-  [![My Skills](https://skillicons.dev/icons?i=express,react,nodejs,maven)](https://skillicons.dev)
-  <br><br>
-  [![My Skills](https://skillicons.dev/icons?i=vscode,idea,windows,ubuntu)](https://skillicons.dev)
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css&perline=6" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,maven,figma&perline=6" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode,idea,windows,ubuntu,linkedin&perline=6" />
+  </a>
 </p>
 ---
 
