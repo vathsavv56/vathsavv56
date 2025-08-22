@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi!+I'm+Vathsav;Java+Developer;Python+Developer;UI%2FUX+%28Learning%29;Anime+Fan&multiline=true&height=500" alt="Vathsav's Intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi!+I'm+Vathsav;Java+Developer;Python+Developer;UI%2FUX+%28Learning%29;Anime+Fan&multiline=true&height=250" alt="Vathsav's Intro" />
 </p>
 
 <p align="center">
