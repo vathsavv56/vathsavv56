@@ -40,9 +40,7 @@ I’m a developer and designer who loves building things that are both functiona
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vathsavv56&theme=tokyonight" alt="GitHub Streak" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&layout=compact" alt="WakaTime Stats" />
-</p>
+
 
 ---
 
@@ -59,11 +57,7 @@ Here are a few things I'm proud of building.
 
 ---
 
-<p align="center">
-  <img src="https://platane.github.io/platane/output/github-contribution-grid-snake.svg?user=vathsavv56&theme=dark" alt="snake" />
-</p>
 
----
 
 ### My Approach to Development
 
