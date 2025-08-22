@@ -19,11 +19,11 @@ I’m a developer and designer who loves building things that are both functiona
   <a href="#"><img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" style="margin:0 12px; vertical-align:middle;" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" style="margin:0 12px; vertical-align:middle;" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=c" alt="C" title="C" style="margin:0 12px; vertical-align:middle;" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" style="margin:0 12px; vertical-align:middle;" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" style="margin:0 12px; vertical-align:middle;" /></a><br>
   <a href="#"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" style="margin:0 12px; vertical-align:middle;" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" style="margin:0 12px; vertical-align:middle;" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma (UI/UX)" style="margin:0 12px; vertical-align:middle;" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" style="margin:0 12px; vertical-align:middle;" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" style="margin:0 12px; vertical-align:middle;" /></a><br>
   <a href="#"><img src="https://skillicons.dev/icons?i=expressjs" alt="Express" title="Express.js" style="margin:0 12px; vertical-align:middle;" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=react" alt="React" title="React" style="margin:0 12px; vertical-align:middle;" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node" title="Node.js" style="margin:0 12px; vertical-align:middle;" /></a>
