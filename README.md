@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&duration=4000&pause=1000&color=ffffff&center=true&vCenter=true&width=600&lines=Hey!+I'm+Vathsav;Java+%7C+Python+%7C+MERN+Stack+Learner;UI%2FUX+Enthusiast+%26+Designer" alt="Hey I'm Vathsav" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&duration=4000&pause=1000&color=ffffff&center=true&vCenter=true&width=600&lines=Hey!+I'm+Vathsav;Java+%7C+Python+%7C+MERN+Stack;UI%2FUX+Enthusiast+%26+Designer" alt="Hey I'm Vathsav" />
 </p>
 
 
@@ -11,23 +11,25 @@ I’m a developer and designer who loves building things that are both functiona
 
 ---
 
+
+
 ### My Toolbox & Skills
 
 <p align="center">
-  <a href="https://github.com/vathsavv56"><img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" style="margin:0 12px; vertical-align:middle;" /></a>
-  <a href="https://www.linkedin.com/in/vathsav-inavolu-561068368/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" title="LinkedIn" style="margin:0 12px; vertical-align:middle;" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" style="margin:0 12px; vertical-align:middle;" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" style="margin:0 12px; vertical-align:middle;" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=c" alt="C" title="C" style="margin:0 12px; vertical-align:middle;" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" style="margin:0 12px; vertical-align:middle;" /></a><br><br>
-  <a href="#"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" style="margin:0 12px; vertical-align:middle;" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" style="margin:0 12px; vertical-align:middle;" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma (UI/UX)" style="margin:0 12px; vertical-align:middle;" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" style="margin:0 12px; vertical-align:middle;" /></a><br><br>
-  <a href="#"><img src="https://skillicons.dev/icons?i=expressjs" alt="Express" title="Express.js" style="margin:0 12px; vertical-align:middle;" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=react" alt="React" title="React" style="margin:0 12px; vertical-align:middle;" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node" title="Node.js" style="margin:0 12px; vertical-align:middle;" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=maven" alt="Maven" title="Maven" style="margin:0 12px; vertical-align:middle;" /></a>
+  <a href="https://github.com/vathsavv56"><img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" style="margin:0 18px; vertical-align:middle;" /></a>
+  <a href="https://www.linkedin.com/in/vathsav-inavolu-561068368/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" title="LinkedIn" style="margin:0 18px; vertical-align:middle;" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" style="margin:0 18px; vertical-align:middle;" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" style="margin:0 18px; vertical-align:middle;" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=c" alt="C" title="C" style="margin:0 18px; vertical-align:middle;" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" style="margin:0 18px; vertical-align:middle;" /></a><br><br>
+  <a href="#"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" style="margin:0 18px; vertical-align:middle;" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" style="margin:0 18px; vertical-align:middle;" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma (UI/UX)" style="margin:0 18px; vertical-align:middle;" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" style="margin:0 18px; vertical-align:middle;" /></a><br><br>
+  <a href="#"><img src="https://skillicons.dev/icons?i=expressjs" alt="Express" title="Express.js" style="margin:0 18px; vertical-align:middle;" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=react" alt="React" title="React" style="margin:0 18px; vertical-align:middle;" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node" title="Node.js" style="margin:0 18px; vertical-align:middle;" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=maven" alt="Maven" title="Maven" style="margin:0 18px; vertical-align:middle;" /></a>
 </p>
 
 ---
