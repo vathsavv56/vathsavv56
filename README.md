@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&duration=4000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Hey!+I'm+Vathsav;Java+%7C+Python+%7C+MERN+Stack+Learner;UI%2FUX+Enthusiast+%26+Designer" alt="Hey I'm Vathsav" />
+  <img src="https://capsule-render.vercel.app/api?type=gradient&color=00FF00&height=120&text=Vathsav&fontSize=50&fontColor=fff&animation=fadeIn" alt="Vathsav Header" />
 </p>
 
 <p align="center">
@@ -14,6 +14,7 @@ I’m a developer and designer who loves building things that are both functiona
 
 <p align="center">
   <a href="https://github.com/vathsavv56"><img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" style="margin:0 12px; vertical-align:middle;" /></a>
+  <a href="https://www.linkedin.com/in/vathsav-inavolu-561068368/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" title="LinkedIn" style="margin:0 12px; vertical-align:middle;" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" style="margin:0 12px; vertical-align:middle;" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" style="margin:0 12px; vertical-align:middle;" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=c" alt="C" title="C" style="margin:0 12px; vertical-align:middle;" /></a>
@@ -32,10 +33,15 @@ I’m a developer and designer who loves building things that are both functiona
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vathsavv56&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vathsavv56&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <br>
+</p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vathsavv56&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vathsavv56&theme=tokyonight&layout=compact" alt="WakaTime Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&layout=compact" alt="WakaTime Stats" />
 </p>
 
 ---
@@ -48,6 +54,7 @@ Here are a few things I'm proud of building.
 * **Description:** My personal website to showcase projects, UI experiments, and development notes. It's a living project where I apply what I learn.
 * **Tech Stack:** React, Node.js, CSS, Figma
 * **Links:** [**GitHub Repo**](https://github.com/vathsavv56/MyPortfolio) | **Live Demo** (coming soon!)
+
 <br/>
 
 ---
@@ -73,6 +80,11 @@ I believe in a structured and iterative learning process.
 I'm always open to collaborating on projects or just having a chat.
 
 * **Email:** inavoluvathsav@gmail.com
-* **GitHub:** [vathsavv56](https://github.com/vathsavv56)
+* **GitHub:** [@vathsavv56](https://github.com/vathsavv56)
 * **LinkedIn:** [Vathsav Inavolu](https://www.linkedin.com/in/vathsav-inavolu-561068368/)
 
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=40&section=footer&text=Always%20learning%20—%20happy%20to%20collaborate!&fontSize=18" alt="footer" />
+</p>
