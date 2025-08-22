@@ -1,59 +1,78 @@
-
-
-<h1 align="center">Hi there, I'm Vathsav! 👋</h1>
-
 <p align="center">
-Welcome to my little corner of GitHub! I'm just starting my journey into the world of code and design, and I'm incredibly excited about it.
-<br />
-I've completely fallen for the power of <b>Java</b>, the endless creativity of <b>web development</b>, and the art of making things feel amazing to use through <b>UI/UX</b>.
-<br />
-This profile is where I'll be sharing my projects and progress. It's all about the journey, and I'm pumped to see where it leads!
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&duration=4000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Hey!+I'm+Vathsav;Java+%7C+Python+%7C+MERN+Stack+Learner;UI%2FUX+Enthusiast+%26+Designer" alt="Hey I'm Vathsav" />
 </p>
 
-🛠️ My Tech Toolkit
-<br>
-<br>
-<hr>
 <p align="center">
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-</a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-</a>
-<a href="https://hibernate.org/" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt="Hibernate"/>
-</a>
-<a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white" alt="Apache Maven"/>
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</a>
-</p>
-<br>
-<br>
-<br>
-<hr>
-📫 How to Reach Me
-
-<p align="center">
-Feel free to connect or drop me a line!
-<br/><br/>
-📧 <a href="mailto:inavoluvathsav@gmail.com">inavoluvathsav@gmail.com</a>
+  <img src="https://komarev.com/ghpvc/?username=vathsavv56&label=Profile%20Visitors&color=00FF00&style=flat" alt="vathsavv56" />
 </p>
 
-<!--
-Optionally, add a GitHub stats card to make it even more dynamic!
-Just replace YOUR-USERNAME with your actual GitHub username.
+I’m a developer and designer who loves building things that are both functional and beautiful. I enjoy blending clean code with thoughtful design — mixing pixels with Java exceptions 🎨☕. My focus is on Java, the MERN stack, and creating intuitive user experiences.
+
+---
+
+### My Toolbox & Skills
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight" alt="Your GitHub Stats" />
+  <a href="https://github.com/vathsavv56"><img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" style="margin:0 12px; vertical-align:middle;" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" style="margin:0 12px; vertical-align:middle;" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" style="margin:0 12px; vertical-align:middle;" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=c" alt="C" title="C" style="margin:0 12px; vertical-align:middle;" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" style="margin:0 12px; vertical-align:middle;" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" style="margin:0 12px; vertical-align:middle;" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" style="margin:0 12px; vertical-align:middle;" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma (UI/UX)" style="margin:0 12px; vertical-align:middle;" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" style="margin:0 12px; vertical-align:middle;" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=expressjs" alt="Express" title="Express.js" style="margin:0 12px; vertical-align:middle;" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=react" alt="React" title="React" style="margin:0 12px; vertical-align:middle;" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node" title="Node.js" style="margin:0 12px; vertical-align:middle;" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=maven" alt="Maven" title="Maven" style="margin:0 12px; vertical-align:middle;" /></a>
 </p>
--->
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vathsavv56&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vathsavv56&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vathsavv56&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vathsavv56&theme=tokyonight&layout=compact" alt="WakaTime Stats" />
+</p>
+
+---
+
+### Projects & Highlights
+
+Here are a few things I'm proud of building.
+
+#### MyPortfolio
+* **Description:** My personal website to showcase projects, UI experiments, and development notes. It's a living project where I apply what I learn.
+* **Tech Stack:** React, Node.js, CSS, Figma
+* **Links:** [**GitHub Repo**](https://github.com/vathsavv56/MyPortfolio) | **Live Demo** (coming soon!)
+<br/>
+
+---
+
+<p align="center">
+  <img src="https://platane.github.io/platane/output/github-contribution-grid-snake.svg?user=vathsavv56&theme=dark" alt="snake" />
+</p>
+
+---
+
+### My Approach to Development
+
+I believe in a structured and iterative learning process.
+
+* **Daily Practice:** I dedicate 30–90 minutes every day to focus on a single topic, whether it's an algorithm, a design pattern, or a new framework feature.
+* **Build-Driven Learning:** My workflow is simple: Prototype in Figma → Implement the core logic → Refine the UI and code. I find building small, focused projects is the best way to learn.
+* **Clean and Readable Code:** I practice writing code that is small, testable, and easy to refactor. Good code should be as clear as good design.
+
+---
+
+### Let's Connect
+
+I'm always open to collaborating on projects or just having a chat.
+
+* **Email:** inavoluvathsav@gmail.com
+* **GitHub:** [vathsavv56](https://github.com/vathsavv56)
+* **LinkedIn:** [Vathsav Inavolu](https://www.linkedin.com/in/vathsav-inavolu-561068368/)
+
