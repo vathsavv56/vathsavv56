@@ -65,15 +65,7 @@ Here are a few things I'm proud of building.
 
 
 
-### My Approach to Development
 
-I believe in a structured and iterative learning process.
-
-* **Daily Practice:** I dedicate 30–90 minutes every day to focus on a single topic, whether it's an algorithm, a design pattern, or a new framework feature.
-* **Build-Driven Learning:** My workflow is simple: Prototype in Figma → Implement the core logic → Refine the UI and code. I find building small, focused projects is the best way to learn.
-* **Clean and Readable Code:** I practice writing code that is small, testable, and easy to refactor. Good code should be as clear as good design.
-
----
 
 ### Let's Connect
 
