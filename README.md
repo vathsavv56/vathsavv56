@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi!+I'm+Vathsav;Java+Developer;Python+Developer;UI%2FUX+%28Learning%29;Anime+Fan&multiline=true&height=250" alt="Vathsav's Intro" />
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi!+I'm+Vathsav;Java+Developer;Python+Enthusiast;React+Fan;Designer+at+Heart" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vathsavv56&label=Profile%20Visitors&color=00FF00&style=flat" alt="vathsavv56" />
