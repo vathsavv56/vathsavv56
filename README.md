@@ -51,7 +51,7 @@ Here are a few things I'm proud of building.
 #### MyPortfolio
 * **Description:** My personal website to showcase projects, UI experiments, and development notes. It's a living project where I apply what I learn.
 * **Tech Stack:** React, Node.js, CSS, Figma
-* **Links:** [**GitHub Repo**](https://vathsavv56.github.io/MyPortfolio/) | **Live Demo** 
+* **Links:** [**Live using github IO**](https://vathsavv56.github.io/MyPortfolio/) | **Live Demo** 
 
 <br/>
 
