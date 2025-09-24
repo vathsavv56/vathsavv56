@@ -74,3 +74,4 @@ I'm always open to collaborating on projects or just having a chat.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=40&section=footer&text=Always%20learning%20—%20happy%20to%20collaborate!&fontSize=18" alt="footer" />
 </p>
+
