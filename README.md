@@ -12,9 +12,11 @@ I’m a developer and designer who loves building things that are both functiona
 
 
 ### My Toolbox & Skills
+<!-- Combined skill icons for performance: programming languages, frameworks/tools, and platforms -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css,react,nodejs,express,mongodb,maven,figma,git,vscode,idea,windows,ubuntu,linkedin&perline=6" alt="Skills" loading="lazy" />
+    <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css,react,nodejs,express,mongodb,maven,figma,git,vscode,idea,windows,ubuntu,linkedin&perline=6" 
+         alt="Skills" loading="lazy" />
   </a>
 </p>
 ---
@@ -27,7 +29,12 @@ I’m a developer and designer who loves building things that are both functiona
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vathsavv56&theme=tokyonight" alt="GitHub Streak" loading="lazy" />
 </p>
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vathsavv56&layout=donut&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&cache_seconds=1800" alt="Most Used Languages" width="40%" loading="lazy" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=vathsavv56&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B" alt="Contribution Graph" width="55%" loading="lazy" /> </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vathsavv56&layout=donut&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&cache_seconds=1800" 
+       alt="Most Used Languages" width="40%" loading="lazy" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vathsavv56&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B" 
+       alt="Contribution Graph" width="55%" loading="lazy" />
+</div>
 
 
 ---
