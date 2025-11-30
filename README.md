@@ -1,6 +1,6 @@
 <!-- Beautiful Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20👋%20I'm%20Vathsav&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Developer%20|%20Designer%20|%20Creator&descSize=18&descAlignY=52" alt="Header" loading="lazy" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20👋%20I'm%20Vathsav&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Developer%20|%20Designer%20|%20Creator&descSize=18&descAlignY=52" alt="Animated header banner with greeting: Hi I'm Vathsav - Developer, Designer, Creator" loading="lazy" width="100%" />
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="divider" loading="lazy" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="" loading="lazy" />
 </div>
 
 <br/>
@@ -29,7 +29,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="divider" loading="lazy" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="" loading="lazy" />
 </div>
 
 <br/>
@@ -47,7 +47,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="divider" loading="lazy" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="" loading="lazy" />
 </div>
 
 <br/>
@@ -72,7 +72,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="divider" loading="lazy" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="" loading="lazy" />
 </div>
 
 <br/>
@@ -110,7 +110,7 @@ Here are a few things I'm proud of building.
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="divider" loading="lazy" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="" loading="lazy" />
 </div>
 
 <br/>
@@ -137,5 +137,5 @@ Here are a few things I'm proud of building.
 
 <!-- Beautiful Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Always%20learning%20—%20happy%20to%20collaborate!&fontSize=20&fontColor=fff&animation=twinkling" alt="footer" loading="lazy" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Always%20learning%20—%20happy%20to%20collaborate!&fontSize=20&fontColor=fff&animation=twinkling" alt="Animated footer banner: Always learning - happy to collaborate!" loading="lazy" width="100%" />
 </p>
