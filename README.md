@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi!+I'm+Vathsav;Java+Developer;Python+Enthusiast;React+Fan;Designer+at+Heart" alt="Typing SVG" />
 
 <p align="center">
@@ -73,4 +73,4 @@ I'm always open to collaborating on projects or just having a chat.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=40&section=footer&text=Always%20learning%20—%20happy%20to%20collaborate!&fontSize=18" alt="footer" />
-</p>
+</p> -->
