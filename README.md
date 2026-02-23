@@ -10,7 +10,7 @@
 ```
 
 ```
-I am a Novice dev who builds from scratch and I love tech and development
+I am a Novice dev who builds from scratch and I love tech and development currently trying out AI ML
 ```
 
 <a href="https://www.linkedin.com/in/vathsav-inavolu-561068368/">
