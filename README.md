@@ -10,7 +10,9 @@
 ```
 
 ```
-I am a Novice dev who builds from scratch and I love tech and development currently trying out AI ML
+I am a Rookie dev who builds from scratch and I love tech and development currently trying out AI ML
+I Get exited when i see some one build a cool project or when i am building things
+## the world is big but life is small
 ```
 
 <a href="https://www.linkedin.com/in/vathsav-inavolu-561068368/">
