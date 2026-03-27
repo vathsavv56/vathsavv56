@@ -40,3 +40,4 @@ I Get exited when i see some one build a cool project or when i am building thin
   <img src="https://img.shields.io/badge/-Zustand-20232A?style=for-the-badge&logo=zustand&logoColor=white" alt="Zustand" />
   <img src="https://img.shields.io/badge/-Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
 </p>
+
